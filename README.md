@@ -117,7 +117,8 @@ Seorang sarjana teknik fisika dengan minat dalam bidang instrumentasi, Control d
 ## Informasi Kontak
 - **Email:** tfits18@gmail.com
 - **Phone:** 085820253099
-- **LinkedIn:** Link to your LinkedIn profile
+- **LinkedIn:** www.linkedin.com/in/afaqihmurtadho290797
+
 
 
 <!-- Add more skill categories if desired -->
