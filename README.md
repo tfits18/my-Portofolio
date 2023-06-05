@@ -2,7 +2,7 @@
 
 ## Tentang Saya
 
-## A.Faqih Murtadho
+### A.Faqih Murtadho
 Seorang sarjana teknik fisika dengan minat dalam bidang instrumentasi, Control dan Otomasi yang berhubungan dengan industri pengolahan. Antusias dan berkeinginan kuat untuk belajar. Berpengalaman dalam melakukan penelitian dan kolaborasi multidisiplin terkait instrumentasi, termasuk pengalaman aktif dalam penelitian Fuel Cell oleh riset produk LPDP untuk pengembangan tenaga bakar kereta api. Selain itu, memiliki pengalaman kerja praktik di bidang instrumentasi dan kontrol di PT Perkebunan Nusantara X
 
 ## Pengalaman Kerja
@@ -37,9 +37,10 @@ Seorang sarjana teknik fisika dengan minat dalam bidang instrumentasi, Control d
 
 ## Pendidikan
 
+### Institut Teknologi Sepuluh Nopember
+
 - **Jurusan:** Teknik Fisika
 - **Strata:** S1
-- **University/Institution:** Institut Teknologi Sepuluh Nopember
 - **Tahun Lulus:** 2023
 - **IPK:** 3,06
 - **Responbility:**
@@ -47,10 +48,12 @@ Seorang sarjana teknik fisika dengan minat dalam bidang instrumentasi, Control d
   - Tugas akhir "Perancangan Pengendalian Temperatur pada Polimer Electrolyte Membran Fuel Cell (PEMFC) tipe open cathode dengan struktur feedback-feedforward"
   - Tugas akhir tersebut berupa penyesuaian simulasi matlab didasarkan validasi pengambilan data eksperimen riset produk LPDP.
   - Relevansi Mata Kuliah : Elektronika, Sistem Pengukuran dan Kalibrasi, Pemodelan Sistem Dinamik, Sistem Kontrol Otomatis, Sistem Instrumentasi, Permodelan Matematika Sistem, Termodinamika, Mekanika Fluida, Perpindahan Panas dan Massa, Konversi Energi dan Konservasi, Optimisasi, Pengendalian Proses, Manajemen Resiko, Keandalan
+- **Link Sertifikat:** https://drive.google.com/drive/folders/1o9f6b_1CFuOvsQc7SGy0rn3Rcrk6Nj1f?usp=drive_link
+ 
+ ### Mandiri Entrepreneur Center
  
 - **Jurusan:** Akuntansi dan Administrasi Perkantoran
 - **Strata:** D1
-- **University/Institution:** Mandiri Entrepreneur Center
 - **Tahun Lulus:** 2019
 - **IPK:** 3,75
 - **Responbility:**
@@ -58,35 +61,58 @@ Seorang sarjana teknik fisika dengan minat dalam bidang instrumentasi, Control d
   - Mengikuti berbagai sertifikasi seperti akuntansi, perpajakan, serta pelatihan microsoft seperti word, powerpoint serta excel.
   - Tugas akhir tersebut berupa analisa harga jual barang berdasarkan jumlah peminat dengan pertimbangan biaya operasional dan sumber pendapatan dalam konteks akuntansi dan optimasi biaya
   - Relevansi Mata Kuliah : Akuntansi Dagang, Akuntansi Jasa, Akuntansi Koperasi, Accurate, Komputer Akuntansi
+- **Link Sertifikat:** https://drive.google.com/drive/folders/1vUwK4qLVCHKNyps40d8lIgUTX0-O-q0R?usp=drive_link
 
+### MA Ihsanniat
+
+- **Jurusan:** IPA
+- **Strata:** SMA 
+- **Tahun Lulus:** 2018
+- **Responbility:**
+  - Menjuarai olimpiade matematika dalam ajang Kompetensi Sains Madrasah se kabupaten Jombang
+  - Aktif sebagai keanggotaan OSIS sebagai sekretaris pada kelas 10 dan 11
+  - Mengikuti lomba membaca kitab kifayatul atqiya' yang diadakan kementrian agama 
+- **Link Sertifikat:** https://drive.google.com/drive/folders/16fcMAuUhNybxnn-tdUxbmR6nx456AH6G?usp=sharing
 <!-- Add any other contact information if desired -->
 
-## Projects
+## Pengalaman Organisasi
 
-### Project 1
-- **Description:** Provide a brief overview of the project, including its purpose, features, and technologies used.
-- **GitHub Repository:** Link to the GitHub repository of the project.
-- **Live Demo:** If applicable, provide a link to a live demo or deployment of the project.
+### Campus Social Responbility
+- Memberikan penyuluhan kepada siswa rentan putus sekolah agar tetap bersekolah dan memberikan akses pendidikan di Surabaya
+- Sukses memberikan penyuluhan sehingga 50+ siswa-siswi yang rentan putus sekolah di Surabaya agar termotivasi untuk terus melanjutkan pendidikan
+- Sukses dalam membawa siswi Sekolah Menengah Pertama menuju SMK pilihan dengan bantuan beasiswa dari dinas pendidikan Surabaya
 
-### Project 2
-- **Description:** Briefly explain the project and its significance.
-- **GitHub Repository:** Link to the GitHub repository of the project.
-- **Live Demo:** If applicable, provide a link to a live demo or deployment of the project.
+### ITS Mengaji
+- Turut membantu mementoring mahasiswa ITS agar aktif melakukan kegiatan mengaji sebagai sarana kerohanian mahasiswa
+- Aktif terlibat dalam gerakan sosial ITS Mengaji yang bertujuan untuk meningkatkan minat baca Al-Qur'an di kalangan mahasiswa ITS
+
+### Smart Inovation Of Writing
+- Turut membantu melakukan persiapan ajang kompetensi karya tulis ilmiah yang diadakan oleh Himpunan Mahasiswa Teknik Fisika
 
 <!-- Add more projects following the same structure -->
 
-## Skills
-List your key skills or technologies that you are proficient in. You can categorize them if desired.
+## Skill
 
-### Programming Languages
-- Language 1
-- Language 2
-- Language 3
+### Bahasa Pemrograman
+- Python
+- C++
+- Matlab
 
-### Frameworks and Libraries
-- Framework/Library 1
-- Framework/Library 2
-- Framework/Library 3
+### Skill Administratif
+- Microsoft Office
+- Microsoft Power Point 
+- Microsoft Excel 
+- Accurate
+
+### CAD
+- Autocad
+- Invertor
+- Solidwork
+
+### Data Pemrosesan dan Visualisasi
+- Matlab
+- Orignlab
+- PLC
 
 ## Informasi Kontak
 - **Email:** tfits18@gmail.com
