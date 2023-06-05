@@ -51,13 +51,13 @@ Seorang sarjana teknik fisika dengan minat dalam bidang instrumentasi, Control d
 - **Jurusan:** Akuntansi dan Administrasi Perkantoran
 - **Strata:** D1
 - **University/Institution:** Mandiri Entrepreneur Center
-- **Tahun Lulus:** 2023
+- **Tahun Lulus:** 2019
 - **IPK:** 3,75
 - **Responbility:**
-  - Bidang fokus pada pengendalian proses, otomasi serta optimasi
-  - Tugas akhir "Perancangan Pengendalian Temperatur pada Polimer Electrolyte Membran Fuel Cell (PEMFC) tipe open cathode dengan struktur feedback-feedforward"
-  - Tugas akhir tersebut berupa penyesuaian simulasi matlab didasarkan validasi pengambilan data eksperimen riset produk LPDP.
-  - Relevansi Mata Kuliah : Elektronika, Sistem Pengukuran dan Kalibrasi, Pemodelan Sistem Dinamik, Sistem Kontrol Otomatis, Sistem Instrumentasi, Permodelan Matematika Sistem, Termodinamika, Mekanika Fluida, Perpindahan Panas dan Massa, Konversi Energi dan Konservasi, Optimisasi, Pengendalian Proses, Manajemen Resiko, Keandalan
+  - Mendapatkan predikat cumlaude saat kuliah
+  - Mengikuti berbagai sertifikasi seperti akuntansi, perpajakan, serta pelatihan microsoft seperti word, powerpoint serta excel.
+  - Tugas akhir tersebut berupa analisa harga jual barang berdasarkan jumlah peminat dengan pertimbangan biaya operasional dan sumber pendapatan dalam konteks akuntansi dan optimasi biaya
+  - Relevansi Mata Kuliah : Akuntansi Dagang, Akuntansi Jasa, Akuntansi Koperasi, Accurate, Komputer Akuntansi
 
 <!-- Add any other contact information if desired -->
 
